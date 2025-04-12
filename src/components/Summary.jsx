@@ -29,6 +29,9 @@ function Summary({ data }) {
 
   const StatRow = ({ title, actual, budget }) => {
     const variance = actual - budget;
+    const budgetColor =
+      title === 'Profit' && budget < 0 ? 'text-red-600' : 'text-blue-800';
+
     return (
       <div className="mb-6">
         <h3 className="text-md font-bold mb-1">{title}</h3>
@@ -41,7 +44,7 @@ function Summary({ data }) {
           </div>
           <div className="text-left">
             <div className="text-gray-500">Budget</div>
-            <div className="text-blue-800 font-semibold">
+            <div className={`${budgetColor} font-semibold`}>
               {formatCurrency(budget)}
             </div>
           </div>
