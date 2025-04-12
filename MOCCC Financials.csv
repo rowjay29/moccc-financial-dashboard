@@ -1,0 +1,195 @@
+﻿Year,Type,Category,Item,Amount,IsActual,IsBudget,IsPriorYear
+2024/25,Revenue,Bar - Food/Drink,Bar - Food/Drink,18081.19,TRUE,FALSE,FALSE
+2024/25,Revenue,Functions,Functions,18609.85,TRUE,FALSE,FALSE
+2024/25,Revenue,Grants,Grants,500,TRUE,FALSE,FALSE
+2024/25,Revenue,Interest Received,Interest Received,560.31,TRUE,FALSE,FALSE
+2024/25,Revenue,KD Club,KD Club,2600,TRUE,FALSE,FALSE
+2024/25,Revenue,Sponsorships,Sponsorships,13000,TRUE,FALSE,FALSE
+2024/25,Revenue,Subscriptions,Subscriptions,28220.13,TRUE,FALSE,FALSE
+2024/25,Expense,Other,Other,127.07,TRUE,FALSE,FALSE
+2024/25,Expense,Affiliation Fees,Affiliation Fees,3291,TRUE,FALSE,FALSE
+2024/25,Expense,Afternoon Tea,Afternoon Tea,1110.64,TRUE,FALSE,FALSE
+2024/25,Expense,Bar - Food/Drink,Bar - Food/Drink,8290.15,TRUE,FALSE,FALSE
+2024/25,Expense,Clubrooms,Clubrooms,3280.71,TRUE,FALSE,FALSE
+2024/25,Expense,Cricket Balls,Cricket Balls,8301,TRUE,FALSE,FALSE
+2024/25,Expense,Cricket Equipment,Cricket Equipment,744.93,TRUE,FALSE,FALSE
+2024/25,Expense,Donations,Donations,500,TRUE,FALSE,FALSE
+2024/25,Expense,Fees,Fees,25.31,TRUE,FALSE,FALSE
+2024/25,Expense,Fines,Fines,22,TRUE,FALSE,FALSE
+2024/25,Expense,Functions,Functions,8224.2,TRUE,FALSE,FALSE
+2024/25,Expense,Ground Hire,Ground Hire,623.7,TRUE,FALSE,FALSE
+2024/25,Expense,Internet,Internet,269,TRUE,FALSE,FALSE
+2024/25,Expense,IT,IT,877.8,TRUE,FALSE,FALSE
+2024/25,Expense,Liquor Licence,Liquor Licence,333.36,TRUE,FALSE,FALSE
+2024/25,Expense,Other Equipment,Other Equipment,426.75,TRUE,FALSE,FALSE
+2024/25,Expense,Player Payments,Player Payments,30268.68,TRUE,FALSE,FALSE
+2024/25,Expense,Social Media,Social Media,54.99,TRUE,FALSE,FALSE
+2024/25,Expense,Training,Training,3845.5,TRUE,FALSE,FALSE
+2024/25,Expense,Trophies,Trophies,2900.21,TRUE,FALSE,FALSE
+2024/25,Expense,Umpires,Umpires,4930.51,TRUE,FALSE,FALSE
+2024/25,Expense,Uniforms,Uniforms,11253.25,TRUE,FALSE,FALSE
+2024/25,Expense,Player Payments,Player Payments,26050,FALSE,TRUE,FALSE
+2024/25,Expense,Uniforms,Uniforms,12500,FALSE,TRUE,FALSE
+2024/25,Expense,Bar - Food/Drink,Bar - Food/Drink,8000,FALSE,TRUE,FALSE
+2024/25,Expense,Cricket Balls,Cricket Balls,8000,FALSE,TRUE,FALSE
+2024/25,Expense,Functions,Functions,11975,FALSE,TRUE,FALSE
+2024/25,Expense,Training,Training,4000,FALSE,TRUE,FALSE
+2024/25,Expense,Affiliation Fees,Affiliation Fees,4750,FALSE,TRUE,FALSE
+2024/25,Expense,Clubrooms,Clubrooms,2000,FALSE,TRUE,FALSE
+2024/25,Expense,Trophies,Trophies,5000,FALSE,TRUE,FALSE
+2024/25,Expense,Umpires,Umpires,7500,FALSE,TRUE,FALSE
+2024/25,Expense,Transfer,Transfer,0,FALSE,TRUE,FALSE
+2024/25,Expense,Afternoon Tea,Afternoon Tea,3600,FALSE,TRUE,FALSE
+2024/25,Expense,IT,IT,0,FALSE,TRUE,FALSE
+2024/25,Expense,Cricket Equipment,Cricket Equipment,500,FALSE,TRUE,FALSE
+2024/25,Expense,Ground Hire,Ground Hire,2000,FALSE,TRUE,FALSE
+2024/25,Expense,Donations,Donations,0,FALSE,TRUE,FALSE
+2024/25,Expense,Other Equipment,Other Equipment,500,FALSE,TRUE,FALSE
+2024/25,Expense,Internet,Internet,500,FALSE,TRUE,FALSE
+2024/25,Expense,Other,Other,1000,FALSE,TRUE,FALSE
+2024/25,Expense,Social Media,Social Media,200,FALSE,TRUE,FALSE
+2024/25,Expense,Fees,Fees,300,FALSE,TRUE,FALSE
+2024/25,Expense,Fines,Fines,0,FALSE,TRUE,FALSE
+2024/25,Expense,Liquor Licence,Liquor Licence,325,FALSE,TRUE,FALSE
+2024/25,Expense,Bar - Operational,Bar - Operational,500,FALSE,TRUE,FALSE
+2024/25,Expense,Mazenod College Payment,Mazenod College Payment,2600,FALSE,TRUE,FALSE
+2024/25,Revenue,Subscriptions,Subscriptions,35450,FALSE,TRUE,FALSE
+2024/25,Revenue,Bar - Food/Drink,Bar - Food/Drink,13000,FALSE,TRUE,FALSE
+2024/25,Revenue,Functions,Functions,20000,FALSE,TRUE,FALSE
+2024/25,Revenue,Sponsorships,Sponsorships,15000,FALSE,TRUE,FALSE
+2024/25,Revenue,Grants,Grants,6500,FALSE,TRUE,FALSE
+2024/25,Revenue,KD Club,KD Club,500,FALSE,TRUE,FALSE
+2024/25,Revenue,Interest Received,Interest Received,1600,FALSE,TRUE,FALSE
+2024/25,Revenue,Afternoon Tea,Afternoon Tea,2000,FALSE,TRUE,FALSE
+2024/25,Expense,Player Payments,Player Payments,27395,FALSE,FALSE,TRUE
+2024/25,Expense,Uniforms,Uniforms,11730,FALSE,FALSE,TRUE
+2024/25,Expense,Bar - Food/Drink,Bar - Food/Drink,7257,FALSE,FALSE,TRUE
+2024/25,Expense,Cricket Balls,Cricket Balls,7648,FALSE,FALSE,TRUE
+2024/25,Expense,Functions,Functions,11041,FALSE,FALSE,TRUE
+2024/25,Expense,Training,Training,4554,FALSE,FALSE,TRUE
+2024/25,Expense,Affiliation Fees,Affiliation Fees,5258,FALSE,FALSE,TRUE
+2024/25,Expense,Clubrooms,Clubrooms,2270,FALSE,FALSE,TRUE
+2024/25,Expense,Trophies,Trophies,4802,FALSE,FALSE,TRUE
+2024/25,Expense,Umpires,Umpires,8613,FALSE,FALSE,TRUE
+2024/25,Expense,Transfer,Transfer,0,FALSE,FALSE,TRUE
+2024/25,Expense,Afternoon Tea,Afternoon Tea,3605,FALSE,FALSE,TRUE
+2024/25,Expense,IT,IT,0,FALSE,FALSE,TRUE
+2024/25,Expense,Cricket Equipment,Cricket Equipment,429,FALSE,FALSE,TRUE
+2024/25,Expense,Ground Hire,Ground Hire,2266,FALSE,FALSE,TRUE
+2024/25,Expense,Donations,Donations,0,FALSE,FALSE,TRUE
+2024/25,Expense,Other Equipment,Other Equipment,555,FALSE,FALSE,TRUE
+2024/25,Expense,Internet,Internet,493,FALSE,FALSE,TRUE
+2024/25,Expense,Other,Other,921,FALSE,FALSE,TRUE
+2024/25,Expense,Social Media,Social Media,191,FALSE,FALSE,TRUE
+2024/25,Expense,Fees,Fees,324,FALSE,FALSE,TRUE
+2024/25,Expense,Fines,Fines,0,FALSE,FALSE,TRUE
+2024/25,Expense,Liquor Licence,Liquor Licence,315,FALSE,FALSE,TRUE
+2024/25,Expense,Bar - Operational,Bar - Operational,486,FALSE,FALSE,TRUE
+2024/25,Expense,Mazenod College Payment,Mazenod College Payment,2402,FALSE,FALSE,TRUE
+2024/25,Revenue,Subscriptions,Subscriptions,30572,FALSE,FALSE,TRUE
+2024/25,Revenue,Bar - Food/Drink,Bar - Food/Drink,10927,FALSE,FALSE,TRUE
+2024/25,Revenue,Functions,Functions,21807,FALSE,FALSE,TRUE
+2024/25,Revenue,Sponsorships,Sponsorships,14694,FALSE,FALSE,TRUE
+2024/25,Revenue,Grants,Grants,7143,FALSE,FALSE,TRUE
+2024/25,Revenue,KD Club,KD Club,478,FALSE,FALSE,TRUE
+2024/25,Revenue,Interest Received,Interest Received,1484,FALSE,FALSE,TRUE
+2024/25,Revenue,Afternoon Tea,Afternoon Tea,1794,FALSE,FALSE,TRUE
+2023/24,Expense,Player Payments,Player Payments,27395,TRUE,FALSE,FALSE
+2023/24,Expense,Uniforms,Uniforms,11730,TRUE,FALSE,FALSE
+2023/24,Expense,Bar - Food/Drink,Bar - Food/Drink,7257,TRUE,FALSE,FALSE
+2023/24,Expense,Cricket Balls,Cricket Balls,7648,TRUE,FALSE,FALSE
+2023/24,Expense,Functions,Functions,11041,TRUE,FALSE,FALSE
+2023/24,Expense,Training,Training,4554,TRUE,FALSE,FALSE
+2023/24,Expense,Affiliation Fees,Affiliation Fees,5258,TRUE,FALSE,FALSE
+2023/24,Expense,Clubrooms,Clubrooms,2270,TRUE,FALSE,FALSE
+2023/24,Expense,Trophies,Trophies,4802,TRUE,FALSE,FALSE
+2023/24,Expense,Umpires,Umpires,8613,TRUE,FALSE,FALSE
+2023/24,Expense,Transfer,Transfer,0,TRUE,FALSE,FALSE
+2023/24,Expense,Afternoon Tea,Afternoon Tea,3605,TRUE,FALSE,FALSE
+2023/24,Expense,IT,IT,0,TRUE,FALSE,FALSE
+2023/24,Expense,Cricket Equipment,Cricket Equipment,429,TRUE,FALSE,FALSE
+2023/24,Expense,Ground Hire,Ground Hire,2266,TRUE,FALSE,FALSE
+2023/24,Expense,Donations,Donations,0,TRUE,FALSE,FALSE
+2023/24,Expense,Other Equipment,Other Equipment,555,TRUE,FALSE,FALSE
+2023/24,Expense,Internet,Internet,493,TRUE,FALSE,FALSE
+2023/24,Expense,Other,Other,921,TRUE,FALSE,FALSE
+2023/24,Expense,Social Media,Social Media,191,TRUE,FALSE,FALSE
+2023/24,Expense,Fees,Fees,324,TRUE,FALSE,FALSE
+2023/24,Expense,Fines,Fines,0,TRUE,FALSE,FALSE
+2023/24,Expense,Liquor Licence,Liquor Licence,315,TRUE,FALSE,FALSE
+2023/24,Expense,Bar - Operational,Bar - Operational,486,TRUE,FALSE,FALSE
+2023/24,Expense,Mazenod College Payment,Mazenod College Payment,2402,TRUE,FALSE,FALSE
+2023/24,Revenue,Subscriptions,Subscriptions,30572,TRUE,FALSE,FALSE
+2023/24,Revenue,Bar - Food/Drink,Bar - Food/Drink,10927,TRUE,FALSE,FALSE
+2023/24,Revenue,Functions,Functions,21807,TRUE,FALSE,FALSE
+2023/24,Revenue,Sponsorships,Sponsorships,14694,TRUE,FALSE,FALSE
+2023/24,Revenue,Grants,Grants,7143,TRUE,FALSE,FALSE
+2023/24,Revenue,KD Club,KD Club,478,TRUE,FALSE,FALSE
+2023/24,Revenue,Interest Received,Interest Received,1484,TRUE,FALSE,FALSE
+2023/24,Revenue,Afternoon Tea,Afternoon Tea,1794,TRUE,FALSE,FALSE
+2023/24,Expense,Player Payments,Player Payments,29835,FALSE,TRUE,FALSE
+2023/24,Expense,Uniforms,Uniforms,14040,FALSE,TRUE,FALSE
+2023/24,Expense,Bar - Food/Drink,Bar - Food/Drink,6616,FALSE,TRUE,FALSE
+2023/24,Expense,Cricket Balls,Cricket Balls,6519,FALSE,TRUE,FALSE
+2023/24,Expense,Functions,Functions,14368,FALSE,TRUE,FALSE
+2023/24,Expense,Training,Training,3351,FALSE,TRUE,FALSE
+2023/24,Expense,Affiliation Fees,Affiliation Fees,3889,FALSE,TRUE,FALSE
+2023/24,Expense,Clubrooms,Clubrooms,2396,FALSE,TRUE,FALSE
+2023/24,Expense,Trophies,Trophies,4698,FALSE,TRUE,FALSE
+2023/24,Expense,Umpires,Umpires,6903,FALSE,TRUE,FALSE
+2023/24,Expense,Transfer,Transfer,0,FALSE,TRUE,FALSE
+2023/24,Expense,Afternoon Tea,Afternoon Tea,3958,FALSE,TRUE,FALSE
+2023/24,Expense,IT,IT,0,FALSE,TRUE,FALSE
+2023/24,Expense,Cricket Equipment,Cricket Equipment,519,FALSE,TRUE,FALSE
+2023/24,Expense,Ground Hire,Ground Hire,1698,FALSE,TRUE,FALSE
+2023/24,Expense,Donations,Donations,0,FALSE,TRUE,FALSE
+2023/24,Expense,Other Equipment,Other Equipment,563,FALSE,TRUE,FALSE
+2023/24,Expense,Internet,Internet,573,FALSE,TRUE,FALSE
+2023/24,Expense,Other,Other,1049,FALSE,TRUE,FALSE
+2023/24,Expense,Social Media,Social Media,236,FALSE,TRUE,FALSE
+2023/24,Expense,Fees,Fees,241,FALSE,TRUE,FALSE
+2023/24,Expense,Fines,Fines,0,FALSE,TRUE,FALSE
+2023/24,Expense,Liquor Licence,Liquor Licence,295,FALSE,TRUE,FALSE
+2023/24,Expense,Bar - Operational,Bar - Operational,600,FALSE,TRUE,FALSE
+2023/24,Expense,Mazenod College Payment,Mazenod College Payment,2760,FALSE,TRUE,FALSE
+2023/24,Revenue,Subscriptions,Subscriptions,37712,FALSE,TRUE,FALSE
+2023/24,Revenue,Bar - Food/Drink,Bar - Food/Drink,13167,FALSE,TRUE,FALSE
+2023/24,Revenue,Functions,Functions,16978,FALSE,TRUE,FALSE
+2023/24,Revenue,Sponsorships,Sponsorships,17027,FALSE,TRUE,FALSE
+2023/24,Revenue,Grants,Grants,7279,FALSE,TRUE,FALSE
+2023/24,Revenue,KD Club,KD Club,501,FALSE,TRUE,FALSE
+2023/24,Revenue,Interest Received,Interest Received,1408,FALSE,TRUE,FALSE
+2023/24,Revenue,Afternoon Tea,Afternoon Tea,2324,FALSE,TRUE,FALSE
+2023/24,Expense,Player Payments,Player Payments,30069,FALSE,FALSE,TRUE
+2023/24,Expense,Uniforms,Uniforms,9674,FALSE,FALSE,TRUE
+2023/24,Expense,Bar - Food/Drink,Bar - Food/Drink,8000,FALSE,FALSE,TRUE
+2023/24,Expense,Cricket Balls,Cricket Balls,8293,FALSE,FALSE,TRUE
+2023/24,Expense,Functions,Functions,12738,FALSE,FALSE,TRUE
+2023/24,Expense,Training,Training,4831,FALSE,FALSE,TRUE
+2023/24,Expense,Affiliation Fees,Affiliation Fees,5121,FALSE,FALSE,TRUE
+2023/24,Expense,Clubrooms,Clubrooms,1896,FALSE,FALSE,TRUE
+2023/24,Expense,Trophies,Trophies,4358,FALSE,FALSE,TRUE
+2023/24,Expense,Umpires,Umpires,7279,FALSE,FALSE,TRUE
+2023/24,Expense,Transfer,Transfer,0,FALSE,FALSE,TRUE
+2023/24,Expense,Afternoon Tea,Afternoon Tea,3031,FALSE,FALSE,TRUE
+2023/24,Expense,IT,IT,0,FALSE,FALSE,TRUE
+2023/24,Expense,Cricket Equipment,Cricket Equipment,430,FALSE,FALSE,TRUE
+2023/24,Expense,Ground Hire,Ground Hire,2549,FALSE,FALSE,TRUE
+2023/24,Expense,Donations,Donations,0,FALSE,FALSE,TRUE
+2023/24,Expense,Other Equipment,Other Equipment,495,FALSE,FALSE,TRUE
+2023/24,Expense,Internet,Internet,576,FALSE,FALSE,TRUE
+2023/24,Expense,Other,Other,946,FALSE,FALSE,TRUE
+2023/24,Expense,Social Media,Social Media,213,FALSE,FALSE,TRUE
+2023/24,Expense,Fees,Fees,384,FALSE,FALSE,TRUE
+2023/24,Expense,Fines,Fines,0,FALSE,FALSE,TRUE
+2023/24,Expense,Liquor Licence,Liquor Licence,301,FALSE,FALSE,TRUE
+2023/24,Expense,Bar - Operational,Bar - Operational,511,FALSE,FALSE,TRUE
+2023/24,Expense,Mazenod College Payment,Mazenod College Payment,2466,FALSE,FALSE,TRUE
+2023/24,Revenue,Subscriptions,Subscriptions,34269,FALSE,FALSE,TRUE
+2023/24,Revenue,Bar - Food/Drink,Bar - Food/Drink,11415,FALSE,FALSE,TRUE
+2023/24,Revenue,Functions,Functions,19808,FALSE,FALSE,TRUE
+2023/24,Revenue,Sponsorships,Sponsorships,15113,FALSE,FALSE,TRUE
+2023/24,Revenue,Grants,Grants,8415,FALSE,FALSE,TRUE
+2023/24,Revenue,KD Club,KD Club,419,FALSE,FALSE,TRUE
+2023/24,Revenue,Interest Received,Interest Received,1308,FALSE,FALSE,TRUE
+2023/24,Revenue,Afternoon Tea,Afternoon Tea,1744,FALSE,FALSE,TRUE
