@@ -13,15 +13,17 @@ function App() {
   const [selectedYear, setSelectedYear] = useState('');
   const [fileName, setFileName] = useState('');
 
+  // ✅ Automatically load CSV from GitHub on page load
   useEffect(() => {
-    const storedCSV = localStorage.getItem('moccc-financial-data');
-    const storedName = localStorage.getItem('moccc-financial-file-name');
-    if (storedCSV) {
-      parseCSV(storedCSV);
-    }
-    if (storedName) {
-      setFileName(storedName);
-    }
+    const csvUrl = 'https://raw.githubusercontent.com/rowjay29/moccc-financial-dashboard/master/MOCCC%20Financials.csv';
+
+    fetch(csvUrl)
+      .then(response => response.text())
+      .then(csvText => {
+        setFileName('MOCCC Financials.csv');
+        parseCSV(csvText);
+      })
+      .catch(error => console.error('Error loading CSV:', error));
   }, []);
 
   const parseCSV = (csvText) => {
