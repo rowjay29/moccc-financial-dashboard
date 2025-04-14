@@ -1,3 +1,4 @@
+// Summary.jsx
 import React from 'react';
 
 function Summary({ data }) {
@@ -29,9 +30,19 @@ function Summary({ data }) {
 
   const StatRow = ({ title, actual, budget }) => {
     const variance = actual - budget;
+    const isExpense = title === 'Expense';
+    const isProfit = title === 'Profit';
+  
+    const varianceColor =
+      variance < 0
+        ? isExpense ? 'text-green-600' : 'text-red-600'
+        : isExpense ? 'text-red-600' : 'text-green-600';
+  
     const budgetColor =
-      title === 'Profit' && budget < 0 ? 'text-red-600' : 'text-blue-800';
-
+      isProfit && budget < 0
+        ? 'text-red-600 font-semibold'
+        : 'text-blue-800 font-semibold';
+  
     return (
       <div className="mb-6">
         <h3 className="text-md font-bold mb-1">{title}</h3>
@@ -44,13 +55,13 @@ function Summary({ data }) {
           </div>
           <div className="text-left">
             <div className="text-gray-500">Budget</div>
-            <div className={`${budgetColor} font-semibold`}>
+            <div className={budgetColor}>
               {formatCurrency(budget)}
             </div>
           </div>
           <div className="text-left">
             <div className="text-gray-500">Variance</div>
-            <div className={variance < 0 ? 'text-red-600 font-semibold' : 'text-green-600 font-semibold'}>
+            <div className={`${varianceColor} font-semibold`}>
               {formatCurrency(variance)}
             </div>
           </div>
@@ -58,10 +69,10 @@ function Summary({ data }) {
       </div>
     );
   };
+  
 
   return (
     <div className="flex flex-col lg:flex-row gap-6">
-      {/* Left Summary Card */}
       <div className="flex-1 p-6 bg-white rounded-xl shadow-xl">
         <h2 className="text-2xl font-bold mb-6">Summary Position</h2>
         <StatRow title="Revenue" actual={actualRevenue} budget={budgetRevenue} />
@@ -69,9 +80,7 @@ function Summary({ data }) {
         <StatRow title="Profit" actual={actualProfit} budget={budgetProfit} />
       </div>
 
-      {/* Right Column with Two Stacked Cards */}
       <div className="flex-1 flex flex-col justify-between gap-6">
-        {/* Cash Balance Summary Card */}
         <div className="bg-white p-6 rounded-xl shadow-xl flex-1">
           <h2 className="text-2xl font-bold mb-4">Cash Balance Summary</h2>
           <div className="flex justify-between text-sm sm:text-base mb-2">
@@ -90,7 +99,6 @@ function Summary({ data }) {
           </div>
         </div>
 
-        {/* Club Info Card */}
         <div className="bg-white p-6 rounded-xl shadow-xl flex-1">
           <h2 className="text-md font-bold mb-4">Club Details</h2>
           <p className="text-sm sm:text-base mb-2">Mazenod Cricket Club</p>
