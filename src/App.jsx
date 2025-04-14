@@ -6,6 +6,8 @@ import ProfitLossSummary from './components/ProfitLossSummary';
 import DetailedBreakdown from './components/DetailedBreakdown';
 import Graphs from './components/Graphs';
 import TreasurersReport from './components/TreasurersReport';
+import KeyRevenueItems from './components/KeyRevenueItems';
+import KeyExpenseItems from './components/KeyExpenseItems';
 
 function App() {
   const [financialData, setFinancialData] = useState([]);
@@ -13,18 +15,27 @@ function App() {
   const [selectedYear, setSelectedYear] = useState('');
   const [fileName, setFileName] = useState('');
 
-  // ✅ Automatically load CSV from GitHub on page load
   useEffect(() => {
-    const csvUrl = 'https://raw.githubusercontent.com/rowjay29/moccc-financial-dashboard/master/MOCCC%20Financials.csv';
+    const storedCSV = localStorage.getItem('moccc-financial-data');
+    const storedName = localStorage.getItem('moccc-financial-file-name');
 
-    fetch(csvUrl)
-      .then(response => response.text())
-      .then(csvText => {
-        setFileName('MOCCC Financials.csv');
-        parseCSV(csvText);
-      })
-      .catch(error => console.error('Error loading CSV:', error));
+    if (storedCSV) {
+      parseCSV(storedCSV);
+      if (storedName) setFileName(storedName);
+    } else {
+      fetchRemoteCSV();
+    }
   }, []);
+
+  const fetchRemoteCSV = async () => {
+    try {
+      const response = await fetch('https://raw.githubusercontent.com/rowjay29/moccc-financial-dashboard/master/MOCCC%20Financials.csv');
+      const text = await response.text();
+      parseCSV(text);
+    } catch (error) {
+      console.error('Error fetching remote CSV:', error);
+    }
+  };
 
   const parseCSV = (csvText) => {
     Papa.parse(csvText, {
@@ -138,18 +149,8 @@ function App() {
           {activeTab === 'graphs' && (
             <Graphs data={financialData} selectedYear={selectedYear} />
           )}
-          {activeTab === 'key-revenue' && (
-            <div className="bg-white p-6 rounded-xl shadow-md">
-              <h2 className="text-xl font-bold mb-4">Key Revenue Items</h2>
-              <p className="text-gray-600">Coming soon...</p>
-            </div>
-          )}
-          {activeTab === 'key-expense' && (
-            <div className="bg-white p-6 rounded-xl shadow-md">
-              <h2 className="text-xl font-bold mb-4">Key Expense Items</h2>
-              <p className="text-gray-600">Coming soon...</p>
-            </div>
-          )}
+          {activeTab === 'key-revenue' && <KeyRevenueItems />}
+          {activeTab === 'key-expense' && <KeyExpenseItems />}
         </>
       )}
     </div>
