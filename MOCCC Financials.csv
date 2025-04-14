@@ -69,7 +69,7 @@
 2024/25,Expense,Other,Social Media,200,FALSE,TRUE,FALSE
 2024/25,Expense,College and Sponsors,Mazenod College Payment,2600,FALSE,TRUE,FALSE
 2024/25,Expense,"Equipment, & Uniforms & Training",Other Equipment,500,FALSE,TRUE,FALSE
-2024/25,Revenue,"Functions, Bar & Food",Social Functions,13389.28,FALSE,FALSE,TRUE
+2024/25,Revenue,"Functions, Bar & Food",Functions,13389.28,FALSE,FALSE,TRUE
 2024/25,Revenue,"Functions, Bar & Food",Bar - Food/Drink,13050,FALSE,FALSE,TRUE
 2024/25,Revenue,"Functions, Bar & Food",50 Year Anniversary,17175.3,FALSE,FALSE,TRUE
 2024/25,Revenue,Subscriptions,Subscriptions,34367.99,FALSE,FALSE,TRUE
@@ -82,7 +82,7 @@
 2024/25,Revenue,Other,Miscellaneous,141.06,FALSE,FALSE,TRUE
 2024/25,Expense,"Functions, Bar & Food",Bar - Operational,0,FALSE,FALSE,TRUE
 2024/25,Expense,"Functions, Bar & Food",Liquor Licence,324.54,FALSE,FALSE,TRUE
-2024/25,Expense,"Functions, Bar & Food",Social Functions,5945.17,FALSE,FALSE,TRUE
+2024/25,Expense,"Functions, Bar & Food",Functions,5945.17,FALSE,FALSE,TRUE
 2024/25,Expense,"Functions, Bar & Food",Bar - Food/Drink,6187.54,FALSE,FALSE,TRUE
 2024/25,Expense,"Functions, Bar & Food",50 Year Anniversary,16740,FALSE,FALSE,TRUE
 2024/25,Expense,"Equipment, & Uniforms & Training",Cricket Balls,8339.68,FALSE,FALSE,TRUE
@@ -118,7 +118,7 @@
 2024/25,Expense,Other,Fines,88,FALSE,FALSE,TRUE
 2024/25,Expense,Other,Insurance,0,FALSE,FALSE,TRUE
 2024/25,Expense,Reward and Recognition,Trophies,60,FALSE,FALSE,TRUE
-2023/24,Revenue,"Functions, Bar & Food",Social Functions,13389.28,TRUE,FALSE,FALSE
+2023/24,Revenue,"Functions, Bar & Food",Functions,13389.28,TRUE,FALSE,FALSE
 2023/24,Revenue,"Functions, Bar & Food",Bar - Food/Drink,13050,TRUE,FALSE,FALSE
 2023/24,Revenue,"Functions, Bar & Food",50 Year Anniversary,17175.3,TRUE,FALSE,FALSE
 2023/24,Revenue,Subscriptions,Subscriptions,34367.99,TRUE,FALSE,FALSE
@@ -131,7 +131,7 @@
 2023/24,Revenue,Other,Miscellaneous,141.06,TRUE,FALSE,FALSE
 2023/24,Expense,"Functions, Bar & Food",Bar - Operational,0,TRUE,FALSE,FALSE
 2023/24,Expense,"Functions, Bar & Food",Liquor Licence,324.54,TRUE,FALSE,FALSE
-2023/24,Expense,"Functions, Bar & Food",Social Functions,5945.17,TRUE,FALSE,FALSE
+2023/24,Expense,"Functions, Bar & Food",Functions,5945.17,TRUE,FALSE,FALSE
 2023/24,Expense,"Functions, Bar & Food",Bar - Food/Drink,6187.54,TRUE,FALSE,FALSE
 2023/24,Expense,"Functions, Bar & Food",50 Year Anniversary,16740,TRUE,FALSE,FALSE
 2023/24,Expense,"Equipment, & Uniforms & Training",Cricket Balls,8339.68,TRUE,FALSE,FALSE
@@ -168,7 +168,7 @@
 2023/24,Expense,Other,Insurance,0,TRUE,FALSE,FALSE
 2023/24,Expense,Reward and Recognition,Trophies,60,TRUE,FALSE,FALSE
 2023/24,Revenue,Subscriptions,Subscriptions,34500,FALSE,TRUE,FALSE
-2023/24,Revenue,"Functions, Bar & Food",Social Functions,14974.5,FALSE,TRUE,FALSE
+2023/24,Revenue,"Functions, Bar & Food",Functions,14974.5,FALSE,TRUE,FALSE
 2023/24,Revenue,"Functions, Bar & Food",Bar - Food/Drink,13000,FALSE,TRUE,FALSE
 2023/24,Revenue,"Functions, Bar & Food",50 Year Anniversary,0,FALSE,TRUE,FALSE
 2023/24,Revenue,"Sponsors, Grants & Memberships",Memberships,1000,FALSE,TRUE,FALSE
@@ -200,7 +200,7 @@
 2023/24,Expense,Game Day & Affiliation Fees,Frogbox,0,FALSE,TRUE,FALSE
 2023/24,Expense,"Functions, Bar & Food",Bar - Operational,1000,FALSE,TRUE,FALSE
 2023/24,Expense,"Functions, Bar & Food",Liquor Licence,0,FALSE,TRUE,FALSE
-2023/24,Expense,"Functions, Bar & Food",Social Functions,10800,FALSE,TRUE,FALSE
+2023/24,Expense,"Functions, Bar & Food",Functions,10800,FALSE,TRUE,FALSE
 2023/24,Expense,"Functions, Bar & Food",Bar - Food/Drink,7000,FALSE,TRUE,FALSE
 2023/24,Expense,"Functions, Bar & Food",50 Year Anniversary,0,FALSE,TRUE,FALSE
 2023/24,Expense,"Coach, Captain & Player Payments",Captain ,2500,FALSE,TRUE,FALSE
@@ -219,7 +219,7 @@
 2023/24,Revenue,"Functions, Bar & Food",Bar - Food/Drink,12971.5,FALSE,FALSE,TRUE
 2023/24,Revenue,Subscriptions,Subscriptions,34058.82,FALSE,FALSE,TRUE
 2023/24,Revenue,"Sponsors, Grants & Memberships",Memberships,895,FALSE,FALSE,TRUE
-2023/24,Revenue,"Functions, Bar & Food",Social Functions,16599.13,FALSE,FALSE,TRUE
+2023/24,Revenue,"Functions, Bar & Food",Functions,16599.13,FALSE,FALSE,TRUE
 2023/24,Revenue,"Sponsors, Grants & Memberships",Sponsorships,14217.09,FALSE,FALSE,TRUE
 2023/24,Revenue,Other,Uniforms,8034.07,FALSE,FALSE,TRUE
 2023/24,Revenue,"Sponsors, Grants & Memberships",Grants,3300,FALSE,FALSE,TRUE
@@ -228,7 +228,7 @@
 2023/24,Revenue,Other,Interest,0,FALSE,FALSE,TRUE
 2023/24,Expense,"Functions, Bar & Food",Bar - Food/Drink,6611.5,FALSE,FALSE,TRUE
 2023/24,Expense,Game Day & Affiliation Fees,Affiliation Fees ,3237.5,FALSE,FALSE,TRUE
-2023/24,Expense,"Functions, Bar & Food",Social Functions,10147.46,FALSE,FALSE,TRUE
+2023/24,Expense,"Functions, Bar & Food",Functions,10147.46,FALSE,FALSE,TRUE
 2023/24,Expense,"Equipment, & Uniforms & Training",Cricket Equipment (Club Wide - Excl. Balls),6221.34,FALSE,FALSE,TRUE
 2023/24,Expense,"Equipment, & Uniforms & Training",Uniforms,15325.8,FALSE,FALSE,TRUE
 2023/24,Expense,College and Sponsors,Mazenod College Payment,1200,FALSE,FALSE,TRUE
